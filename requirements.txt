@@ -1,0 +1,6 @@
+pandas
+camelot-py
+tk
+ghostscript
+selenium
+chromedriver
